@@ -6,15 +6,7 @@ const cors = require('cors');
 const app = express();
 const PORT = process.env.PORT || 4000;
 
-app.use(
-  cors({
-    origin: [
-      "http://localhost:5173",
-      "https://socially-approved-carousel-swart.vercel.app",
-    ],
-    credentials: true,
-  })
-);
+app.use(cors());
 
 // Middleware
 app.use(express.json());
