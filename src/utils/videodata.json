@@ -1,0 +1,131 @@
+[
+  {
+    "title": "Travel Reel 1",
+    "description": "Amazing cinematic reel in mountains",
+    "likes": 120,
+    "shares": 12,
+    "views": 2400,
+    "category": "Travel",
+    "creator": "Krishan Sharma",
+    "duration": "00:24",
+    "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-tree-with-yellow-flowers-1173-large.mp4",
+    "thumbnail": "https://images.unsplash.com/photo-1506744038136-46273834b3fb"
+  },
+
+  {
+    "title": "Travel Reel 2",
+    "description": "Forest waterfall cinematic view",
+    "likes": 240,
+    "shares": 20,
+    "views": 4200,
+    "category": "Nature",
+    "creator": "Learnosphere Media",
+    "duration": "00:31",
+    "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-waterfall-in-forest-2213-large.mp4",
+    "thumbnail": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee"
+  },
+
+  {
+    "title": "Travel Reel 3",
+    "description": "Sunset road trip aesthetic reel",
+    "likes": 380,
+    "shares": 32,
+    "views": 8600,
+    "category": "Travel",
+    "creator": "Socially Approved",
+    "duration": "00:27",
+    "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-tree-with-yellow-flowers-1173-large.mp4",
+    "thumbnail": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e"
+  },
+
+  {
+    "title": "Travel Reel 4",
+    "description": "Adventure hiking in snowy mountains",
+    "likes": 520,
+    "shares": 48,
+    "views": 12000,
+    "category": "Adventure",
+    "creator": "DripTrip",
+    "duration": "00:42",
+    "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-waterfall-in-forest-2213-large.mp4",
+    "thumbnail": "https://images.unsplash.com/photo-1517821365201-7734f463f9db"
+  },
+
+  {
+    "title": "Travel Reel 5",
+    "description": "Beautiful ocean waves cinematic reel",
+    "likes": 670,
+    "shares": 55,
+    "views": 18200,
+    "category": "Ocean",
+    "creator": "Oceanic Media",
+    "duration": "00:38",
+    "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-tree-with-yellow-flowers-1173-large.mp4",
+    "thumbnail": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+  },
+
+  {
+    "title": "Travel Reel 6",
+    "description": "Peaceful lake and forest vibes",
+    "likes": 810,
+    "shares": 73,
+    "views": 21400,
+    "category": "Nature",
+    "creator": "Nature Films",
+    "duration": "00:29",
+    "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-waterfall-in-forest-2213-large.mp4",
+    "thumbnail": "https://images.unsplash.com/photo-1501785888041-af3ef285b470"
+  },
+
+  {
+    "title": "Travel Reel 7",
+    "description": "Drone shot over desert road",
+    "likes": 930,
+    "shares": 85,
+    "views": 28100,
+    "category": "Adventure",
+    "creator": "Adventure Hub",
+    "duration": "00:33",
+    "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-tree-with-yellow-flowers-1173-large.mp4",
+    "thumbnail": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429"
+  },
+
+  {
+    "title": "Travel Reel 8",
+    "description": "Relaxing tropical beach cinematic",
+    "likes": 1020,
+    "shares": 96,
+    "views": 35000,
+    "category": "Beach",
+    "creator": "Travel Stories",
+    "duration": "00:36",
+    "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-waterfall-in-forest-2213-large.mp4",
+    "thumbnail": "https://images.unsplash.com/photo-1493558103817-58b2924bce98"
+  },
+
+  {
+    "title": "Travel Reel 9",
+    "description": "Morning fog in green hills",
+    "likes": 450,
+    "shares": 28,
+    "views": 9600,
+    "category": "Nature",
+    "creator": "Visual Frames",
+    "duration": "00:26",
+    "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-tree-with-yellow-flowers-1173-large.mp4",
+    "thumbnail": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0"
+  },
+
+  {
+    "title": "Travel Reel 10",
+    "description": "Luxury resort cinematic experience",
+    "likes": 1400,
+    "shares": 140,
+    "views": 48000,
+    "category": "Luxury",
+    "creator": "Luxury Escapes",
+    "duration": "00:45",
+    "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-waterfall-in-forest-2213-large.mp4",
+    "thumbnail": "https://images.unsplash.com/photo-1496417263034-38ec4f0b665a"
+  }
+]
